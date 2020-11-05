@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8937E585-A6FD-4F52-AAFC-9680DD0DFE53"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0551895D-DDDF-470F-B9EF-20D4DA8FFA16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiArt/EmojiArtDocument.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "fetchBackGroundImageData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9C9B013-7434-4858-8F94-F5F383B35E1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiArt/EmojiArtDocument.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8F2B9D0-50FB-48EB-B2F7-62B061E87BFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiArt/EmojiArtDocument.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "init(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8F2B9D0-50FB-48EB-B2F7-62B061E87BFD - bc4ab083e4953d20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Art.EmojiArtDocument.init() -&gt; Emoji_Art.EmojiArtDocument"
+                  moduleName = "Emoji Art"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abbas/Desktop/Developer/EmojiArt/EmojiArt/EmojiArtDocument.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1323">
+               </Location>
+               <Location
+                  uuid = "F8F2B9D0-50FB-48EB-B2F7-62B061E87BFD - b1cf666c53356a9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Emoji_Art.EmojiArt) -&gt; () in Emoji_Art.EmojiArtDocument.init() -&gt; Emoji_Art.EmojiArtDocument"
+                  moduleName = "Emoji Art"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abbas/Desktop/Developer/EmojiArt/EmojiArt/EmojiArtDocument.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E0B5D3C-4B72-4F49-8528-ACF238BFFE85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiArt/EmojiArtDocument.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "EmojiArtDocument"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EC189CD-5375-4B35-841A-1CCCFC6EBEE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiArt/EmojiArtDocument.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7EC189CD-5375-4B35-841A-1CCCFC6EBEE3 - 4946515d8843a068"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Art.EmojiArtDocument.__allocating_init() -&gt; Emoji_Art.EmojiArtDocument"
+                  moduleName = "Emoji Art"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abbas/Desktop/Developer/EmojiArt/EmojiArt/EmojiArtDocument.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "7EC189CD-5375-4B35-841A-1CCCFC6EBEE3 - bc4ab083e4953d20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Art.EmojiArtDocument.init() -&gt; Emoji_Art.EmojiArtDocument"
+                  moduleName = "Emoji Art"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abbas/Desktop/Developer/EmojiArt/EmojiArt/EmojiArtDocument.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "331">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
